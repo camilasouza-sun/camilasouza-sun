@@ -12,6 +12,18 @@
 
 #### I am a creative, dedicated person who is always willing to learn. I enjoy technology and programming, but I have a special interest in 3D modeling.
 
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+</div>
+
+###
+
 
 <div data-importer="techs" align="left">
  
@@ -46,10 +58,6 @@
 </p>
 
 ---
-
-### 🤖 Linguagens
- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://img.icons8.com/color/512/c-programming.png" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 
 ### 🌱 I am currently
 
