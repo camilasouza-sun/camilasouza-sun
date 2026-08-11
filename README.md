@@ -86,12 +86,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camilasouza-sun/camilasouza-sun/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/camilasouza-sun/camilasouza-sun/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camilasouza-sun/camilasouza-sun/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
-  <source media="(prefers-color-scheme: light)" srcset=">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/camilasouza-sun/camilasouza-sun/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-</picture>
-
-###
