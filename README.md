@@ -28,6 +28,11 @@
   
 </div>
 
+<a href="https://www.duolingo.com/profile/camilasantos28" target="_blank">
+  <img src="https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=white" alt="Duolingo">
+</a>
+
+
 <p
     <
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
